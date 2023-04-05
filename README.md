@@ -11,7 +11,7 @@
 - Albert Francisco Hernandez Sanchez 2019-0126
 
 # Desarrollo
-librerias las cuales usamos para pdoer correr el codigo de manera correcta y sin fallos desde la librerias de hilos a la de tiempo.
+Librerias las cuales usamos para pdoer correr el codigo de manera correcta y sin fallos desde la librerias de hilos a la de tiempo.
 ~~~
 import threading
 from time import sleep
@@ -19,7 +19,7 @@ semaforo = threading.Semaphore(2)
 n=0
 ~~~
 
-declaramos la clase hilos con un argumento de hilo, ademas de al momento de llamarla se inicio una instacia la cual se declara asi mismo con sus propiedades ademas de agregar un metodo run el cual hace la funcion del semaforo y pueda agregar a la lista sus instacias.
+Declaramos la clase hilos con un argumento de hilo, ademas de al momento de llamarla se inicio una instacia la cual se declara asi mismo con sus propiedades ademas de agregar un metodo run el cual hace la funcion del semaforo y pueda agregar a la lista sus instacias.
 ~~~
 class Hilo(threading.Thread):
     def __init__(self, id):
@@ -34,7 +34,7 @@ class Hilo(threading.Thread):
 ~~~
 
 
-se declara los hilos a procesar y el arrays donde se almacenaran
+Se declara los hilos a procesar y el arrays donde se almacenaran.
 ~~~
 d=[]
 hilos = [Hilo(1),
@@ -42,7 +42,7 @@ Hilo(2),
 Hilo(3)]
 ~~~
 
-bucle en el cual pasa hilo por hilo y iniciamos cada instacia de lo mismo, luego esperamos paara obtener el semaforo imprimos el estado y lo retiramos.
+Bucle en el cual pasa hilo por hilo y iniciamos cada instacia de lo mismo, luego esperamos paara obtener el semaforo imprimos el estado y lo retiramos.
 ~~~
 for h in hilos:
     h.start()
@@ -54,4 +54,4 @@ for h in hilos:
 ~~~
 
 
-video explicandolo: 
+Video explicandolo: 
