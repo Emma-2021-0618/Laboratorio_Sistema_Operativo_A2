@@ -11,7 +11,7 @@
 - Albert Francisco Hernandez Sanchez 2019-0126
 
 # Desarrollo
-Librerias las cuales usamos para pdoer correr el codigo de manera correcta y sin fallos desde la librerias de hilos a la de tiempo.
+Librerias las cuales usamos para poder correr el codigo de manera correcta y sin fallos desde la librerias de hilos a la de tiempo.
 ~~~
 import threading
 from time import sleep
