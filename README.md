@@ -55,3 +55,7 @@ for h in hilos:
 
 
 Video explicandolo: 
+
+
+
+https://miucateciedu-my.sharepoint.com/:v:/g/personal/20190126_miucateci_edu_do/EVNkucj-ZOhImv89jPx3ohIBf8tpmqyW4eBsammOS4Au_g?e=iYUm2D
