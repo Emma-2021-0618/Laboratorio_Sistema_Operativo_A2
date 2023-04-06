@@ -53,9 +53,6 @@ for h in hilos:
     semaforo.release()
 ~~~
 
+## Video explicandolo:
 
-Video explicandolo: 
-
-
-
-https://miucateciedu-my.sharepoint.com/:v:/g/personal/20190126_miucateci_edu_do/EVNkucj-ZOhImv89jPx3ohIBf8tpmqyW4eBsammOS4Au_g?e=iYUm2D
+[Video de Explicación]([https://drive.google.com/file/d/1yNd1l1tBnjhrsyk9LbsGYGdgn2KdwTML/view?usp=share_link](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20190126_miucateci_edu_do/EVNkucj-ZOhImv89jPx3ohIBf8tpmqyW4eBsammOS4Au_g?e=iYUm2D))
