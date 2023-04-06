@@ -10,7 +10,7 @@
 - Enmanuel Sanchez Rodriguez 2021-0618
 - Albert Francisco Hernandez Sanchez 2019-0126
 
-# Desarrollo
+# Semáforos con Python.
 Librerias las cuales usamos para poder correr el codigo de manera correcta y sin fallos desde la librerias de hilos a la de tiempo.
 ~~~
 import threading
